@@ -1,4 +1,4 @@
-/* Stylings by Pavan Mahesh */
+
 
 .card-wrapper {
   display: flex;
@@ -23,7 +23,7 @@
 }
 
 .card-container::after {
-  content: "Pavan Mahesh";
+  content: "Abhinay";
   width: 100%;
   height: 100%;
   position: absolute;
@@ -79,4 +79,4 @@
   transform: rotateY(180deg);
 }
 
-/* Stylings by Pavan Mahesh */
+

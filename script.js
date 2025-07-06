@@ -1,4 +1,4 @@
-/* Scripted by M. Pavan Mahesh */
+
 
 const cardContainer = document.querySelector(".card-wrapper .card-container");
 
